@@ -1,4 +1,4 @@
-# 📋 Aplicativo para Gerenciamento Financeiro Mensal (React)
+# 💰 Aplicativo para Gerenciamento Financeiro Mensal (React)
   Interface de um Sistema financeiro que faz o balanço mensal de receitas e despesas utilizando React.
 
 ## 💻 Tecnologias Usadas
